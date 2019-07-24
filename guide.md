@@ -1,15 +1,18 @@
 # TensorFlow 官方文档中文化协助手册
+
 [TOC]
 
 ## 项目介绍
 
-为了加速 TensorFlow 在中国大陆的落地速度，让更多暂时英文能力尚不足以直接阅读官方文档的开发者，使用母语提前熟悉或者辅助针对 TensorFlow 的学习过程。我们现面向所有人，招募有意愿加入中文化 TensorFlow 官方英文文档的开源社区成员。
+- **项目名称**：TensorFlow 官方英文文档社区汉化
+- **发起组织**：Google Brain 技术文档撰稿团队
+- **成立时间**：2019 年 03 月
+- **成立初衷**：
+    为加速 TensorFlow 于中国地区落地速度，同时促使更多非英语母语开发者可无障碍阅读官方文档而设立。
+- **成立目的**：
+    为了加速 TensorFlow 在中国大陆的落地速度，让更多暂时英文能力尚不足以直接阅读官方文档的开发者，使用母语提前熟悉或者辅助针对 TensorFlow 的学习过程。面向所有人，招募有意愿加入中文化 TensorFlow 官方英文文档的开源社区成员。
 
-TensorFlow 社区翻译项目由 Google Brain 的技术文档撰稿团队发起。她是一个全球范围内的开源开放文档社区，基于 [GitHub](https://github.com) 平台的 [TensorFlow/docs](https://github.com/tensorflow/docs) 进行协作。目前，全世界已经有中国、日本、韩国、俄罗斯、葡萄牙和土耳其等国家加入。
-
-最初，大陆此项目由 Beijing TensorFlow team、Dev Relation team 和杭州市的黑胡桃实验室联合发起，并于 TensorFlow 2019 年 3 月上线新版官网前，对所有的 TF.js 11 个旧版官方文档进行了翻译。
-
-## 加入项目
+## 前期准备
 
 1. 首先，请确保你可以正确上网并且拥有一个 Google 账号，以便进行之后的操作
 2. 加入[邮件组](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn)。可直接加入不需要批准(相关的所有文件夹的访问权限，均已共享给这个邮件组)
@@ -125,4 +128,4 @@ TensorFlow 社区翻译项目由 Google Brain 的技术文档撰稿团队发起�
 
 ### 协调
 
-## 总结
+## 感言及展望
