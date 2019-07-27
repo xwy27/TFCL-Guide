@@ -1,4 +1,6 @@
-# TensorFlow 官方文档中文化协助手册
+# <center>**TensorFlow 官方文档中文化协助手册**</center>
+
+---
 
 [TOC]
 
@@ -8,53 +10,76 @@
 - **发起组织**：Google Brain 技术文档撰稿团队
 - **成立时间**：2019 年 03 月
 - **成立初衷**：
-    为加速 TensorFlow 于中国地区落地速度，同时促使更多非英语母语开发者可无障碍阅读官方文档而设立。
+    为加速 TensorFlow 于中国地区落地速度，同时促使更多非英语母语开发者可无障碍阅读官方文档而设立
 - **成立目的**：
-    为了加速 TensorFlow 在中国大陆的落地速度，让更多暂时英文能力尚不足以直接阅读官方文档的开发者，使用母语提前熟悉或者辅助针对 TensorFlow 的学习过程。面向所有人，招募有意愿加入中文化 TensorFlow 官方英文文档的开源社区成员。
+    面向所有人招募有意加入 TensorFlow 官方英文文档汉化工作<sup>1</sup>的人员
 
-## 前期准备
+> [1] 社区翻译基于什么运作？  
+[GitHub](https://github.com/)  
+[TensorFlow/docs](https://github.com/tensorflow/docs)  
+[TensorFlow China Community Localization Project（任务领取）](https://github.com/duanw0916/docs/projects/1)  
+[TensorFlow 官方文档中文化](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn)   
+[全球的 TensorFlow Documentation Contributors](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs)  
+[Google Hangouts Meet](https://meet.google.com/yri-ujnb-qxa)  
+TF Community Localization（微信群）
 
-1. 首先，请确保你可以正确上网并且拥有一个 Google 账号，以便进行之后的操作
-2. 加入[邮件组](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn)。可直接加入不需要批准(相关的所有文件夹的访问权限，均已共享给这个邮件组)
-3. 在 [TF Community Localization Membership](https://drive.google.com/corp/drive/folders/1qx3O5eoHss910DLZEHRqc8i9rROQA51W?usp=sharing_eil&ts=5cd01240) Excel 文档中填写个人信息
+## 准备工作
 
-    ![infoDoc](assets/infoDoc.png)
-    如图中选中的部分，完成个人信息填写。其中，务必保证你的**邮箱**，**意向角色**和 **Github 账号**正确。
+### 前期准备
 
-    *如果尚未拥有 Github 账号，请先[注册](https://github.com/)*
+1. 保证网络通畅（需要科学上网）
+2. 注册（或拥有）一个 Google 账号和一个 GitHub 账号
+3. 加入 [TensorFlow 官方文档中文化邮件组](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn) <sup>2</sup>
 
-4. 正确填写文档内的个人信息后，等待 duanw0916 添加协作者的邮件(会发送到你注册 Github 的邮箱中)
+   ![CTFDC](assets/CTFDC.png)
 
-    ![invitation](assets/invitation.png)
-    
-    收到邮件后，对邀请进行确认，则你已成为协作者。
+   加入[全球的 TensorFlow Documentation Contributors（可选）](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs)
 
-    - 验证是否成为协作者
+   ![TFDC](assets/TFDC.png)
 
-      打开 [Project](https://github.com/duanw0916/docs/projects/1)，如果你可以操作里面的 Card，那么你已经成为项目协作者。
+4. 在 [TF Community Localization Membership 中的 Excel 文档中](https://docs.google.com/spreadsheets/d/1_tqQrrfPJAnX1-obuIZYPX_fZPmd3_EytgaRF3qz_qs/edit?usp=drive_web&ouid=102279685002386439932)填写相关信息，正确填写完毕，等候 duanw0916 发送邀请确认（将会发送邀请通知至你所填写的 GitHub 注册所用的邮箱中）<sup>3</sup> <sup>4</sup>
 
-5. 签署 [CLA](https://cla.developers.google.com/)，只需签署个人 CLA。签署完成之后，可看到如下信息：
+  ![infoDoc](assets/infoDoc.png "infoDoc")
 
-    ![CLA](assets/CLA.png)
+  ![invitation](assets/invitation.png "invitation")
 
-6. 加入微信工作群。项目成员间可通过微信群聊咨询相关问题。
+5. 签署 [CLA](https://cla.developers.google.com/)（选择签署个人 CLA）
 
-    *目前微信群已达扫码加入上限，先添加负责人微信: BinaryHB，由负责人邀请加入。添加备注请注明 TensorFlow*
+   ![CLA](assets/CLA.png "签署 CLA 成功后所显示的信息")
 
-7. 请确保第4条中操作完成，正确成为协作者之后，在进行后续操作。
+6. 加入微信工作群（负责人微信：BinaryHB，添加备注：TensorFlow）
+
+> [2] 无需验证，直接加入，且相关文件已共享 
+>  
+> [3] 信息填写完毕，需要评论该条信息，具体操作如下：
+>
+>  ![infoDoc_commet_1](assets/infoDoc_commet_1.png)
+>
+>  ![infoDoc_commet_2](assets/infoDoc_commet_2.png)
+>
+> [4] 验证是否成为项目协作者可至 [Project](https://github.com/duanw0916/docs/projects/1) 进行对于 Card 的操作，若可顺利操作，则表明已经加入。
+
+### 文档阅读
+
+1. [TensorFlow 官方文档汉化协助教程](https://drive.google.com/open?id=1En_UACoKLLnktj9pD3O7vYtD1iOmBKYBbNaJsM0ra8o)
+2. [格式标准、术语比对、审校重点](https://drive.google.com/open?id=1v7kwEhvtbbI4S4gulxLJDDN78gv0ZlDJ0cN92BUPrm0)
+3. [Google Developer Documentation Style Guide](https://developers.google.com/style/highlights)
+4. [TF 官方文档样式指导](https://www.tensorflow.org/community/contribute/docs_style)
+5. [中文文案排班指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+6. [TF 机器学习术语表](https://developers.google.com/machine-learning/glossary/)
 
 ## 工具介绍
 
 ### 交流工具
 
+- Email
+- WeChat
 - Google Group
 - Google Hangouts
-- Wechat
 
 ### 协作工具
 
-- Github
-- Github Project
+- Github、Github Project
 
 ## 操作手册
 
@@ -129,3 +154,7 @@
 ### 协调
 
 ## 感言及展望
+
+TensorFlow Community Localization 的蓬勃发展无不源于各位成员的无私奉献，在此，翻译社区诚挚向你致谢，你所作的努力有效推动了 TensorFlow 官方英文文档汉化工作的进度，普惠更多非英语母语的开发人员能够简便而有效地查阅相关资料。
+当 TensorFlow Lite 相关文档翻译完毕，我们后续将继续完成 TensorFlow 2.0 相关文档以及 API 文档等内容的翻译工作。
+路漫漫其修远兮，在未来，翻译社区不仅期求你的持续参与，而且希望纳入更多新鲜的血液，让我们齐头并肩为远方的征途而迸进。在此，翻译社区再次向你表示由衷的感谢！
