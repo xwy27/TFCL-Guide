@@ -1,4 +1,6 @@
-# TensorFlow 官方文档中文化协助手册
+# <center>**TensorFlow 官方文档中文化协助手册**</center>
+
+---
 
 [TOC]
 
@@ -8,55 +10,361 @@
 - **发起组织**：Google Brain 技术文档撰稿团队
 - **成立时间**：2019 年 03 月
 - **成立初衷**：
-    为加速 TensorFlow 于中国地区落地速度，同时促使更多非英语母语开发者可无障碍阅读官方文档而设立。
+    为加速 TensorFlow 于中国地区落地速度，同时促使更多非英语母语开发者可无障碍阅读官方文档而设立
 - **成立目的**：
-    为了加速 TensorFlow 在中国大陆的落地速度，让更多暂时英文能力尚不足以直接阅读官方文档的开发者，使用母语提前熟悉或者辅助针对 TensorFlow 的学习过程。面向所有人，招募有意愿加入中文化 TensorFlow 官方英文文档的开源社区成员。
+    面向所有人招募有意加入 TensorFlow 官方英文文档汉化工作<sup>1</sup>的人员
 
-## 前期准备
+> [1] 社区翻译基于什么运作？  
+[GitHub](https://github.com/)  
+[TensorFlow/docs](https://github.com/tensorflow/docs)  
+[TensorFlow China Community Localization Project（任务领取）](https://github.com/duanw0916/docs/projects/1)  
+[TensorFlow 官方文档中文化](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn)   
+[全球的 TensorFlow Documentation Contributors](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs)  
+[Google Hangouts Meet](https://meet.google.com/yri-ujnb-qxa)  
+TF Community Localization（微信群）
 
-1. 首先，请确保你可以正确上网并且拥有一个 Google 账号，以便进行之后的操作
-2. 加入[邮件组](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn)。可直接加入不需要批准(相关的所有文件夹的访问权限，均已共享给这个邮件组)
-3. 在 [TF Community Localization Membership](https://drive.google.com/corp/drive/folders/1qx3O5eoHss910DLZEHRqc8i9rROQA51W?usp=sharing_eil&ts=5cd01240) Excel 文档中填写个人信息
+## 准备工作
 
-    ![infoDoc](assets/infoDoc.png)
-    如图中选中的部分，完成个人信息填写。其中，务必保证你的**邮箱**，**意向角色**和 **Github 账号**正确。
+### 前期准备
 
-    *如果尚未拥有 Github 账号，请先[注册](https://github.com/)*
+(1) 保证网络通畅（需要科学上网）
+(2) 注册（或拥有）一个 Google 账号和一个 GitHub 账号
+(3) 加入 [TensorFlow 官方文档中文化邮件组](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn) <sup>2</sup>
 
-4. 正确填写文档内的个人信息后，等待 duanw0916 添加协作者的邮件(会发送到你注册 Github 的邮箱中)
+   ![CTFDC](assets/CTFDC.png)
 
-    ![invitation](assets/invitation.png)
-    
-    收到邮件后，对邀请进行确认，则你已成为协作者。
+   加入[全球的 TensorFlow Documentation Contributors（可选）](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs)
 
-    - 验证是否成为协作者
+   ![TFDC](assets/TFDC.png)
 
-      打开 [Project](https://github.com/duanw0916/docs/projects/1)，如果你可以操作里面的 Card，那么你已经成为项目协作者。
+(4) 在 [TF Community Localization Membership 中的 Excel 文档中](https://docs.google.com/spreadsheets/d/1_tqQrrfPJAnX1-obuIZYPX_fZPmd3_EytgaRF3qz_qs/edit?usp=drive_web&ouid=102279685002386439932)填写相关信息，正确填写完毕，等候 duanw0916 发送邀请确认（将会发送邀请通知至你所填写的 GitHub 注册所用的邮箱中）<sup>3</sup> <sup>4</sup>
 
-5. 签署 [CLA](https://cla.developers.google.com/)，只需签署个人 CLA。签署完成之后，可看到如下信息：
+  ![infoDoc](assets/infoDoc.png "infoDoc")
 
-    ![CLA](assets/CLA.png)
+  ![invitation](assets/invitation.png "invitation")
 
-6. 加入微信工作群。项目成员间可通过微信群聊咨询相关问题。
+(5) 签署 [CLA](https://cla.developers.google.com/)（选择签署个人 CLA）
 
-    *目前微信群已达扫码加入上限，先添加负责人微信: BinaryHB，由负责人邀请加入。添加备注请注明 TensorFlow*
+   ![CLA](assets/CLA.png "签署 CLA 成功后所显示的信息")
 
-7. 请确保第4条中操作完成，正确成为协作者之后，在进行后续操作。
+(6) 加入微信工作群（负责人微信：BinaryHB，添加备注：TensorFlow）
+
+> [2] 无需验证，直接加入，且相关文件已共享 
+>  
+> [3] 信息填写完毕，需要评论该条信息，具体操作如下：
+>
+>  ![infoDoc_commet_1](assets/infoDoc_commet_1.png)
+>
+>  ![infoDoc_commet_2](assets/infoDoc_commet_2.png)
+>
+> [4] 验证是否成为项目协作者可至 [Project](https://github.com/duanw0916/docs/projects/1) 进行对于 Card 的操作，若可顺利操作，则表明已经加入。
+
+### 文档阅读
+
+[1] [TensorFlow 官方文档汉化协助教程](https://drive.google.com/open?id=1En_UACoKLLnktj9pD3O7vYtD1iOmBKYBbNaJsM0ra8o)
+[2] [格式标准、术语比对、审校重点](https://drive.google.com/open?id=1v7kwEhvtbbI4S4gulxLJDDN78gv0ZlDJ0cN92BUPrm0)
+[3] [Google Developer Documentation Style Guide](https://developers.google.com/style/highlights)
+[4] [TF 官方文档样式指导](https://www.tensorflow.org/community/contribute/docs_style)
+[5] [中文文案排班指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+[6] [TF 机器学习术语表](https://developers.google.com/machine-learning/glossary/)
 
 ## 工具介绍
 
 ### 交流工具
 
+- Email
+- WeChat
 - Google Group
 - Google Hangouts
-- Wechat
 
 ### 协作工具
 
-- Github
-- Github Project
+- Github、Github Project
 
 ## 操作手册
+
+### 文案排版指南
+
+### **中文**
+
+**中文与英文之间需要增加空格**
+
+正确：
+> 在 Google Doc 中，注意使用正确的文案排版。
+
+错误：
+> 在Google Doc中，注意使用正确的文案排版。
+
+**中文和数字之间需要增加空格**
+
+正确：
+> 今天是翻译社区成立第 100 天。
+
+错误：
+> 今天是翻译社区成立第 100天。  
+> 今天是翻译社区成立第100天。
+
+**关于「首行缩进」**
+
+不建议使用首行缩进
+
+正确：
+> 英文文档汉化过程中不建议使用首行缩进。
+
+
+错误：
+> &nbsp;&nbsp;&nbsp;&nbsp;英文文档汉化过程中不建议使用首行缩进。
+
+**关于「全角标点」**
+
+中文文档建议完全使用全角标点
+
+正确：
+> 果然，他是一名中国人！  
+
+错误：
+> 果然,他是一名中国人!（使用了半角标点）  
+> 果然,他是一名中国人！（未完全使用全角标点）
+
+不重复使用标点符号
+
+正确：
+> 中国男足竟然战胜了德国队！  
+
+错误：
+> 中国男足竟然战胜了德国队！！  
+> 中国男足竟然战胜了德国队！！！！  
+> 中国男足怎么可能战胜德国队？？！！  
+> 中国男足怎么可能战胜德国队？？！！？？！！  
+
+全角标点与其他字符之间不添加空格
+
+正确：
+> 刚刚买了一部 iPhone，好开心！
+
+错误：
+> 刚刚买了一部 iPhone ，好开心！
+> 刚刚买了一部iPhone，好开心！
+
+行首行末禁则
+
+正确：
+> 排版时需要注意的是，  
+> 点号（顿号、逗号、句号等）、结束引号、结束括号等不可出现于行首，  
+> 同时开始引号、开始括号、开始双书名号等不可出现于行末，  
+> 这符合了「中文文案排版规范」。
+
+错误：
+> 排版时需要注意的是  
+> ，  点号（顿号、逗号、句号等）、结束引号、    
+> 结束括号等不可出现于行首，同时开始引号、  
+> 开始括号、开始双书名号等不可出现于行末，这符合了「  
+> 中文文案排版规范」。
+
+省略号（删节号）占用 4 个字节
+
+正确：
+> 中国设计还有太长的路要走......
+
+错误：
+> 中国设计还有太长的路要走...  
+> 中国设计还有太长的路要走..
+
+破折号占用 2 个字节
+
+正确：
+> 这是四大名著之一——《西游记》
+
+错误：
+> 这是四大名著之一—《西游记》（仅占用 1 个字节）  
+> 这是四大名著之--《西游记》（使用了半角的连字符）  
+> 这是四大名著之一__《西游记》  
+
+**使用直角引号**
+
+建议使用直角引号（替换弯角引号）
+
+正确：
+> 你竟然喜欢「苹果手表」？
+
+引号中再次使用引号以双直角引号替代
+
+正确：
+> 我问道，「你竟然喜欢『苹果手表』」？
+
+错误：
+> 我问道，「你竟然喜欢「苹果手表」」？
+
+当引号表示讽刺、暗示、反语等含义时，使用弯引号
+
+正确：
+> 说真的，我也很“喜欢”「苹果手表」呢！
+
+错误：
+> 说真的，我也很"喜欢"「苹果手表」呢！（使用了半角的弯引号）
+
+**关于超链接**
+
+**建议在超链接的前后添加一个空格**
+
+示例：
+> 请 [提交一个issue]() 并分配给相关同事。
+> 访问网站最新动态请 [点击这里]() 进行订阅！
+
+### **英文**
+
+**首字母大写**
+
+正确：
+> Just do it!
+
+错误：
+> just do it!
+
+**组合单词或句子中的连词、冠词以及介词短语无需大写**
+
+正确：
+> People's Republic of China  
+> A Egg in the Box.  
+> The dog in the House.
+
+错误：
+> People's Republic Of China  
+> A Egg In The Box.  
+> the dog in the House.（句首单词大写）
+
+**标题可全字母大写**
+
+正确：
+> JUST DO IT!  
+
+**遵循专业名词的大小写，且不可使用非官方缩写**
+
+正确：
+> JavaScript  
+> HTML 5  
+> iPhone 6s
+
+错误：
+> javascript  
+> H5 或 h5  
+
+**点号（如逗号、句号）后需要添加一个空格**
+
+正确：
+> Hello! Our World!  
+> This is an example. This is another example.
+
+错误：
+> Hello!Our World!  
+> This is an example.This is another example.
+
+**括号、引号的前后需要添加一个空格，其中间内容无需添加空格**
+
+示例：
+> 5.04 ouences (143 grams)  
+> Did you say "I love you"?
+
+**“at”标志（除电子邮件）、版权标识、项目符号等后需要添加一个空格**
+
+示例：
+> @ Hindy, © Hindy   
+> hindy@buzhihu.com
+
+**连字符（-）前后无需添加空格**
+
+示例：
+> Multi‑Touch   
+> Jean-Jacques Rousseau
+
+**全角连接号（—）前后需要添加一个空格**
+
+示例：
+> So not only will you see what a press can do — you’ll feel it. 
+
+**关于单词间断**
+
+囿于页面显示宽度而导致单词间断，建议将完整单词直接拼接至下一行的首部而不采用传统的“-”连接符
+
+示例：
+> If you are right, let's go  
+> and get it!
+
+对比示例：
+> If you are right, let's go an-  
+> d get it!
+
+**遇到完整的英文整句、特殊名词时，其内容使用半角标点**
+
+正确：
+> 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」  
+> 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+
+错误：
+> 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」  
+> 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
+
+**关于斜体**
+
+在英文中，斜体常用于表示人名、地名或书名等（在英文里没有书名号），同时可用于强调某个单词或句子。若英文原文出现斜体，那么在汉化过程中，可同样使用斜体进行强调，或将其转化为对应符号进行替代。
+
+### **数字**
+
+**数字使用半角字符**
+
+在设计稿、宣传海报中若出现极少量数字的情形时，为方便文字对齐，可使用全角字符形式的数字。
+
+正确：
+> 这个蛋糕只卖 1000 元。
+
+错误：
+> 这个蛋糕只卖 １０００ 元。
+
+**数字与单位之间需要添加一个空格**
+
+度的标志、百分号等符号前无需添加空格，  
+货币标志、表正负符号等符号后无需添加空格。
+
+示例：
+> 70°，100%  
+> ￥10，-15  
+> 10 Gbps  
+> SSD 的存储容量为 20 TB。  
+
+### **序号**
+
+**对于操作步骤，建议使用“(*)”（半角括号）的形式标注，并在其后添加一个空格**  
+**在第 1 个至第 n-1 个操作步骤的末尾可选添加“；”符号，在第 n 个操作步骤的末尾可选添加“。”符号**
+
+示例：
+> (1) 操作步骤（；）  
+> (2) 操作步骤（；）  
+> (3) 操作步骤（；）  
+> (4) 操作步骤（。）
+
+**对于注释或引用，建议使用“[*]”（半角）的形式标注，并在其后添加一个空格**  
+
+示例：
+> [1] 注释  
+> [2] 注释  
+> [3] 注释  
+> [4] 注释
+
+> [1] 引用  
+> [2] 引用  
+> [3] 引用  
+> [4] 引用
+
+### **空格**
+
+为避免争端，空格建议使用空格键（Spacebar键）进行输出，而不使用制表键（Tabulator键）。
+
+> 本「文案排版指南」参考内容如下：  
+> [1] [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)  
+> [2] [写给大家看的中文排版指南，设计师、文案、编辑一定要看看](https://www.digitaling.com/articles/23555.html)  
+> [3] [TensorFlow documentation style guide](https://www.tensorflow.org/community/contribute/docs_style)  
+> [4] [Google Developer Documentation Style Guide
+](https://developers.google.com/style/highlights)
 
 ### 翻译
 
@@ -129,3 +437,7 @@
 ### 协调
 
 ## 感言及展望
+
+TensorFlow Community Localization 的蓬勃发展无不源于各位成员的无私奉献，在此，翻译社区诚挚向你致谢，你所作的努力有效推动了 TensorFlow 官方英文文档汉化工作的进度，普惠更多非英语母语的开发人员能够简便而有效地查阅相关资料。
+当 TensorFlow Lite 相关文档翻译完毕，我们后续将继续完成 TensorFlow 2.0 相关文档以及 API 文档等内容的翻译工作。
+路漫漫其修远兮，在未来，翻译社区不仅期求你的持续参与，而且希望纳入更多新鲜的血液，让我们齐头并肩为远方的征途而迸进。在此，翻译社区再次向你表示由衷的感谢！
