@@ -96,18 +96,18 @@ TF Community Localization（微信群）
 
 **中文与英文之间需要增加空格**
 
-正确：
+推荐：
 > 在 Google Doc 中，注意使用正确的文案排版。
 
-错误：
+不鼓励：
 > 在Google Doc中，注意使用正确的文案排版。
 
 **中文和数字之间需要增加空格**
 
-正确：
+推荐：
 > 今天是翻译社区成立第 100 天。
 
-错误：
+不鼓励：
 > 今天是翻译社区成立第 100天。  
 > 今天是翻译社区成立第100天。
 
@@ -115,30 +115,30 @@ TF Community Localization（微信群）
 
 不建议使用首行缩进
 
-正确：
+推荐：
 > 英文文档汉化过程中不建议使用首行缩进。
 
 
-错误：
+不鼓励：
 > &nbsp;&nbsp;&nbsp;&nbsp;英文文档汉化过程中不建议使用首行缩进。
 
 **关于「全角标点」**
 
 中文文档建议完全使用全角标点
 
-正确：
+推荐：
 > 果然，他是一名中国人！  
 
-错误：
+不鼓励：
 > 果然,他是一名中国人!（使用了半角标点）  
 > 果然,他是一名中国人！（未完全使用全角标点）
 
 不重复使用标点符号
 
-正确：
+推荐：
 > 中国男足竟然战胜了德国队！  
 
-错误：
+不鼓励：
 > 中国男足竟然战胜了德国队！！  
 > 中国男足竟然战胜了德国队！！！！  
 > 中国男足怎么可能战胜德国队？？！！  
@@ -146,22 +146,22 @@ TF Community Localization（微信群）
 
 全角标点与其他字符之间不添加空格
 
-正确：
+推荐：
 > 刚刚买了一部 iPhone，好开心！
 
-错误：
+不鼓励：
 > 刚刚买了一部 iPhone ，好开心！
 > 刚刚买了一部iPhone，好开心！
 
 行首行末禁则
 
-正确：
+推荐：
 > 排版时需要注意的是，  
 > 点号（顿号、逗号、句号等）、结束引号、结束括号等不可出现于行首，  
 > 同时开始引号、开始括号、开始双书名号等不可出现于行末，  
 > 这符合了「中文文案排版规范」。
 
-错误：
+不鼓励：
 > 排版时需要注意的是  
 > ，  点号（顿号、逗号、句号等）、结束引号、    
 > 结束括号等不可出现于行首，同时开始引号、  
@@ -170,19 +170,19 @@ TF Community Localization（微信群）
 
 省略号（删节号）占用 4 个字节
 
-正确：
+推荐：
 > 中国设计还有太长的路要走......
 
-错误：
+不鼓励：
 > 中国设计还有太长的路要走...  
 > 中国设计还有太长的路要走..
 
 破折号占用 2 个字节
 
-正确：
+推荐：
 > 这是四大名著之一——《西游记》
 
-错误：
+不鼓励：
 > 这是四大名著之一—《西游记》（仅占用 1 个字节）  
 > 这是四大名著之--《西游记》（使用了半角的连字符）  
 > 这是四大名著之一__《西游记》  
@@ -191,23 +191,23 @@ TF Community Localization（微信群）
 
 建议使用直角引号（替换弯角引号）
 
-正确：
+推荐：
 > 你竟然喜欢「苹果手表」？
 
 引号中再次使用引号以双直角引号替代
 
-正确：
+推荐：
 > 我问道，「你竟然喜欢『苹果手表』」？
 
-错误：
+不鼓励：
 > 我问道，「你竟然喜欢「苹果手表」」？
 
 当引号表示讽刺、暗示、反语等含义时，使用弯引号
 
-正确：
+推荐：
 > 说真的，我也很“喜欢”「苹果手表」呢！
 
-错误：
+不鼓励：
 > 说真的，我也很"喜欢"「苹果手表」呢！（使用了半角的弯引号）
 
 **关于超链接**
@@ -222,47 +222,47 @@ TF Community Localization（微信群）
 
 **首字母大写**
 
-正确：
+推荐：
 > Just do it!
 
-错误：
+不鼓励：
 > just do it!
 
 **组合单词或句子中的连词、冠词以及介词短语无需大写**
 
-正确：
+推荐：
 > People's Republic of China  
 > A Egg in the Box.  
 > The dog in the House.
 
-错误：
+不鼓励：
 > People's Republic Of China  
 > A Egg In The Box.  
 > the dog in the House.（句首单词大写）
 
 **标题可全字母大写**
 
-正确：
+推荐：
 > JUST DO IT!  
 
 **遵循专业名词的大小写，且不可使用非官方缩写**
 
-正确：
+推荐：
 > JavaScript  
 > HTML 5  
 > iPhone 6s
 
-错误：
+不鼓励：
 > javascript  
 > H5 或 h5  
 
 **点号（如逗号、句号）后需要添加一个空格**
 
-正确：
+推荐：
 > Hello! Our World!  
 > This is an example. This is another example.
 
-错误：
+不鼓励：
 > Hello!Our World!  
 > This is an example.This is another example.
 
@@ -303,11 +303,11 @@ TF Community Localization（微信群）
 
 **遇到完整的英文整句、特殊名词时，其内容使用半角标点**
 
-正确：
+推荐：
 > 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」  
 > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-错误：
+不鼓励：
 > 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」  
 > 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
@@ -321,10 +321,10 @@ TF Community Localization（微信群）
 
 在设计稿、宣传海报中若出现极少量数字的情形时，为方便文字对齐，可使用全角字符形式的数字。
 
-正确：
+推荐：
 > 这个蛋糕只卖 1000 元。
 
-错误：
+不鼓励：
 > 这个蛋糕只卖 １０００ 元。
 
 **数字与单位之间需要添加一个空格**
@@ -388,15 +388,15 @@ TF Community Localization（微信群）
     前往[Project](https://github.com/duanw0916/docs/projects/1)，领取任务(*需要在加入操作步骤中第 4 步成功成为协作者*)，按照下图进行任务领取：
     ![getTask](assets/getTask.png)
 
-1. 翻译文档
+2. 翻译文档
     
     领取完任务后，按照上面任务中 attention 的提交路径创建文件，并且进行文档翻译。翻译时，请遵守 Google 文档编写的相关规范。
 
-1. 推送到个人仓库
+3. 推送到个人仓库
     
     翻译完毕后，将你的文档推送到你的Github个人仓库中。
 
-1. 发起 Pull Request
+4. 发起 Pull Request
     
     进入到你的Github个人仓库页面，点击 New pull request 和 Create pull request，发起 Pull Request。其中 Title 按照：zh-CN：xxxxx 格式填写。
 
@@ -407,14 +407,14 @@ TF Community Localization（微信群）
     
     ![pr-1](assets/pr-3.png)
 
-1. 等待审校意见和修改
+5. 等待审校意见和修改
     
     接下来，回到 [Project])https://github.com/duanw0916/docs/projects/1) 页面，找到你领取的任务，将板子拖动到 Reviewing 栏，等待 Reviewer 领取任务，对你的翻译进行审校。
 
     ![toReview](assets/toReview.png)
 
     之后，关注你发起的 Pull Request，Reviewer 会对你的翻译提出修改意见。根据修改意见，进行修改后，再次推送到你的Github 仓库(你的修改会实时反映到你的 Pull Request 中)。
-1. 翻译结束
+6. 翻译结束
     
     当审校通过后，Reviewer 会给你的 Pull Request 打上 lgtm(look good to me) 的标签。这时，等待 TensorFlow 官方人员 merge 你的 pull request。当你收到如下消息时，这个翻译任务就完成了。
 
