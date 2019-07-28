@@ -92,279 +92,279 @@ TF Community Localization（微信群）
 
 ### 文案排版指南
 
-### **中文**
+- 中文
 
-**中文与英文之间需要增加空格**
+  **中文与英文之间需要增加空格**
 
-推荐：
-> 在 Google Doc 中，注意使用正确的文案排版。
+  推荐：
+  > 在 Google Doc 中，注意使用正确的文案排版。
 
-不鼓励：
-> 在Google Doc中，注意使用正确的文案排版。
+  不鼓励：
+  > 在Google Doc中，注意使用正确的文案排版。
 
-**中文和数字之间需要增加空格**
+  **中文和数字之间需要增加空格**
 
-推荐：
-> 今天是翻译社区成立第 100 天。
+  推荐：
+  > 今天是翻译社区成立第 100 天。
 
-不鼓励：
-> 今天是翻译社区成立第 100天。  
-> 今天是翻译社区成立第100天。
+  不鼓励：
+  > 今天是翻译社区成立第 100天。  
+  > 今天是翻译社区成立第100天。
 
-**关于「首行缩进」**
+  **关于「首行缩进」**
 
-不建议使用首行缩进
+  不建议使用首行缩进
 
-推荐：
-> 英文文档汉化过程中不建议使用首行缩进。
+  推荐：
+  > 英文文档汉化过程中不建议使用首行缩进。
 
 
-不鼓励：
-> &nbsp;&nbsp;&nbsp;&nbsp;英文文档汉化过程中不建议使用首行缩进。
+  不鼓励：
+  > &nbsp;&nbsp;&nbsp;&nbsp;英文文档汉化过程中不建议使用首行缩进。
 
-**关于「全角标点」**
+  **关于「全角标点」**
 
-中文文档建议完全使用全角标点
+  中文文档建议完全使用全角标点
 
-推荐：
-> 果然，他是一名中国人！  
+  推荐：
+  > 果然，他是一名中国人！  
 
-不鼓励：
-> 果然,他是一名中国人!（使用了半角标点）  
-> 果然,他是一名中国人！（未完全使用全角标点）
+  不鼓励：
+  > 果然,他是一名中国人!（使用了半角标点）  
+  > 果然,他是一名中国人！（未完全使用全角标点）
 
-不重复使用标点符号
+  不重复使用标点符号
 
-推荐：
-> 中国男足竟然战胜了德国队！  
+  推荐：
+  > 中国男足竟然战胜了德国队！  
 
-不鼓励：
-> 中国男足竟然战胜了德国队！！  
-> 中国男足竟然战胜了德国队！！！！  
-> 中国男足怎么可能战胜德国队？？！！  
-> 中国男足怎么可能战胜德国队？？！！？？！！  
+  不鼓励：
+  > 中国男足竟然战胜了德国队！！  
+  > 中国男足竟然战胜了德国队！！！！  
+  > 中国男足怎么可能战胜德国队？？！！  
+  > 中国男足怎么可能战胜德国队？？！！？？！！  
 
-全角标点与其他字符之间不添加空格
+  全角标点与其他字符之间不添加空格
 
-推荐：
-> 刚刚买了一部 iPhone，好开心！
+  推荐：
+  > 刚刚买了一部 iPhone，好开心！
 
-不鼓励：
-> 刚刚买了一部 iPhone ，好开心！
-> 刚刚买了一部iPhone，好开心！
+  不鼓励：
+  > 刚刚买了一部 iPhone ，好开心！
+  > 刚刚买了一部iPhone，好开心！
 
-行首行末禁则
+  行首行末禁则
 
-推荐：
-> 排版时需要注意的是，  
-> 点号（顿号、逗号、句号等）、结束引号、结束括号等不可出现于行首，  
-> 同时开始引号、开始括号、开始双书名号等不可出现于行末，  
-> 这符合了「中文文案排版规范」。
+  推荐：
+  > 排版时需要注意的是，  
+  > 点号（顿号、逗号、句号等）、结束引号、结束括号等不可出现于行首，  
+  > 同时开始引号、开始括号、开始双书名号等不可出现于行末，  
+  > 这符合了「中文文案排版规范」。
 
-不鼓励：
-> 排版时需要注意的是  
-> ，  点号（顿号、逗号、句号等）、结束引号、    
-> 结束括号等不可出现于行首，同时开始引号、  
-> 开始括号、开始双书名号等不可出现于行末，这符合了「  
-> 中文文案排版规范」。
+  不鼓励：
+  > 排版时需要注意的是  
+  > ，  点号（顿号、逗号、句号等）、结束引号、    
+  > 结束括号等不可出现于行首，同时开始引号、  
+  > 开始括号、开始双书名号等不可出现于行末，这符合了「  
+  > 中文文案排版规范」。
 
-省略号（删节号）占用 4 个字节
+  省略号（删节号）占用 4 个字节
 
-推荐：
-> 中国设计还有太长的路要走......
+  推荐：
+  > 中国设计还有太长的路要走......
 
-不鼓励：
-> 中国设计还有太长的路要走...  
-> 中国设计还有太长的路要走..
+  不鼓励：
+  > 中国设计还有太长的路要走...  
+  > 中国设计还有太长的路要走..
 
-破折号占用 2 个字节
+  破折号占用 2 个字节
 
-推荐：
-> 这是四大名著之一——《西游记》
+  推荐：
+  > 这是四大名著之一——《西游记》
 
-不鼓励：
-> 这是四大名著之一—《西游记》（仅占用 1 个字节）  
-> 这是四大名著之--《西游记》（使用了半角的连字符）  
-> 这是四大名著之一__《西游记》  
+  不鼓励：
+  > 这是四大名著之一—《西游记》（仅占用 1 个字节）  
+  > 这是四大名著之--《西游记》（使用了半角的连字符）  
+  > 这是四大名著之一__《西游记》  
 
-**使用直角引号**
+  **使用直角引号**
 
-建议使用直角引号（替换弯角引号）
+  建议使用直角引号（替换弯角引号）
 
-推荐：
-> 你竟然喜欢「苹果手表」？
+  推荐：
+  > 你竟然喜欢「苹果手表」？
 
-引号中再次使用引号以双直角引号替代
+  引号中再次使用引号以双直角引号替代
 
-推荐：
-> 我问道，「你竟然喜欢『苹果手表』」？
+  推荐：
+  > 我问道，「你竟然喜欢『苹果手表』」？
 
-不鼓励：
-> 我问道，「你竟然喜欢「苹果手表」」？
+  不鼓励：
+  > 我问道，「你竟然喜欢「苹果手表」」？
 
-当引号表示讽刺、暗示、反语等含义时，使用弯引号
+  当引号表示讽刺、暗示、反语等含义时，使用弯引号
 
-推荐：
-> 说真的，我也很“喜欢”「苹果手表」呢！
+  推荐：
+  > 说真的，我也很“喜欢”「苹果手表」呢！
 
-不鼓励：
-> 说真的，我也很"喜欢"「苹果手表」呢！（使用了半角的弯引号）
+  不鼓励：
+  > 说真的，我也很"喜欢"「苹果手表」呢！（使用了半角的弯引号）
 
-**关于超链接**
+  **关于超链接**
 
-**建议在超链接的前后添加一个空格**
+  **建议在超链接的前后添加一个空格**
 
-示例：
-> 请 [提交一个issue]() 并分配给相关同事。
-> 访问网站最新动态请 [点击这里]() 进行订阅！
+  示例：
+  > 请 [提交一个issue]() 并分配给相关同事。
+  > 访问网站最新动态请 [点击这里]() 进行订阅！
 
-### **英文**
+- 英文
 
-**首字母大写**
+  **首字母大写**
 
-推荐：
-> Just do it!
+  推荐：
+  > Just do it!
 
-不鼓励：
-> just do it!
+  不鼓励：
+  > just do it!
 
-**组合单词或句子中的连词、冠词以及介词短语无需大写**
+  **组合单词或句子中的连词、冠词以及介词短语无需大写**
 
-推荐：
-> People's Republic of China  
-> A Egg in the Box.  
-> The dog in the House.
+  推荐：
+  > People's Republic of China  
+  > A Egg in the Box.  
+  > The dog in the House.
 
-不鼓励：
-> People's Republic Of China  
-> A Egg In The Box.  
-> the dog in the House.（句首单词大写）
+  不鼓励：
+  > People's Republic Of China  
+  > A Egg In The Box.  
+  > the dog in the House.（句首单词大写）
 
-**标题可全字母大写**
+  **标题可全字母大写**
 
-推荐：
-> JUST DO IT!  
+  推荐：
+  > JUST DO IT!  
 
-**遵循专业名词的大小写，且不可使用非官方缩写**
+  **遵循专业名词的大小写，且不可使用非官方缩写**
 
-推荐：
-> JavaScript  
-> HTML 5  
-> iPhone 6s
+  推荐：
+  > JavaScript  
+  > HTML 5  
+  > iPhone 6s
 
-不鼓励：
-> javascript  
-> H5 或 h5  
+  不鼓励：
+  > javascript  
+  > H5 或 h5  
 
-**点号（如逗号、句号）后需要添加一个空格**
+  **点号（如逗号、句号）后需要添加一个空格**
 
-推荐：
-> Hello! Our World!  
-> This is an example. This is another example.
+  推荐：
+  > Hello! Our World!  
+  > This is an example. This is another example.
 
-不鼓励：
-> Hello!Our World!  
-> This is an example.This is another example.
+  不鼓励：
+  > Hello!Our World!  
+  > This is an example.This is another example.
 
-**括号、引号的前后需要添加一个空格，其中间内容无需添加空格**
+  **括号、引号的前后需要添加一个空格，其中间内容无需添加空格**
 
-示例：
-> 5.04 ouences (143 grams)  
-> Did you say "I love you"?
+  示例：
+  > 5.04 ouences (143 grams)  
+  > Did you say "I love you"?
 
-**“at”标志（除电子邮件）、版权标识、项目符号等后需要添加一个空格**
+  **“at”标志（除电子邮件）、版权标识、项目符号等后需要添加一个空格**
 
-示例：
-> @ Hindy, © Hindy   
-> hindy@buzhihu.com
+  示例：
+  > @ Hindy, © Hindy   
+  > hindy@buzhihu.com
 
-**连字符（-）前后无需添加空格**
+  **连字符（-）前后无需添加空格**
 
-示例：
-> Multi‑Touch   
-> Jean-Jacques Rousseau
+  示例：
+  > Multi‑Touch   
+  > Jean-Jacques Rousseau
 
-**全角连接号（—）前后需要添加一个空格**
+  **全角连接号（—）前后需要添加一个空格**
 
-示例：
-> So not only will you see what a press can do — you’ll feel it. 
+  示例：
+  > So not only will you see what a press can do — you’ll feel it. 
 
-**关于单词间断**
+  **关于单词间断**
 
-囿于页面显示宽度而导致单词间断，建议将完整单词直接拼接至下一行的首部而不采用传统的“-”连接符
+  囿于页面显示宽度而导致单词间断，建议将完整单词直接拼接至下一行的首部而不采用传统的“-”连接符
 
-示例：
-> If you are right, let's go  
-> and get it!
+  示例：
+  > If you are right, let's go  
+  > and get it!
 
-对比示例：
-> If you are right, let's go an-  
-> d get it!
+  对比示例：
+  > If you are right, let's go an-  
+  > d get it!
 
-**遇到完整的英文整句、特殊名词时，其内容使用半角标点**
+  **遇到完整的英文整句、特殊名词时，其内容使用半角标点**
 
-推荐：
-> 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」  
-> 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+  推荐：
+  > 贾伯斯那句话是怎么说的？「Stay hungry, stay foolish.」  
+  > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
-不鼓励：
-> 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」  
-> 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
+  不鼓励：
+  > 贾伯斯那句话是怎么说的？「Stay hungry，stay foolish。」  
+  > 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
-**关于斜体**
+  **关于斜体**
 
-在英文中，斜体常用于表示人名、地名或书名等（在英文里没有书名号），同时可用于强调某个单词或句子。若英文原文出现斜体，那么在汉化过程中，可同样使用斜体进行强调，或将其转化为对应符号进行替代。
+  在英文中，斜体常用于表示人名、地名或书名等（在英文里没有书名号），同时可用于强调某个单词或句子。若英文原文出现斜体，那么在汉化过程中，可同样使用斜体进行强调，或将其转化为对应符号进行替代。
 
-### **数字**
+- 数字
 
-**数字使用半角字符**
+  **数字使用半角字符**
 
-在设计稿、宣传海报中若出现极少量数字的情形时，为方便文字对齐，可使用全角字符形式的数字。
+  在设计稿、宣传海报中若出现极少量数字的情形时，为方便文字对齐，可使用全角字符形式的数字。
 
-推荐：
-> 这个蛋糕只卖 1000 元。
+  推荐：
+  > 这个蛋糕只卖 1000 元。
 
-不鼓励：
-> 这个蛋糕只卖 １０００ 元。
+  不鼓励：
+  > 这个蛋糕只卖 １０００ 元。
 
-**数字与单位之间需要添加一个空格**
+  **数字与单位之间需要添加一个空格**
 
-度的标志、百分号等符号前无需添加空格，  
-货币标志、表正负符号等符号后无需添加空格。
+  度的标志、百分号等符号前无需添加空格，  
+  货币标志、表正负符号等符号后无需添加空格。
 
-示例：
-> 70°，100%  
-> ￥10，-15  
-> 10 Gbps  
-> SSD 的存储容量为 20 TB。  
+  示例：
+  > 70°，100%  
+  > ￥10，-15  
+  > 10 Gbps  
+  > SSD 的存储容量为 20 TB。
 
-### **序号**
+- 序号
 
-**对于操作步骤，建议使用“(*)”（半角括号）的形式标注，并在其后添加一个空格**  
-**在第 1 个至第 n-1 个操作步骤的末尾可选添加“；”符号，在第 n 个操作步骤的末尾可选添加“。”符号**
+  **对于操作步骤，建议使用“(*)”（半角括号）的形式标注，并在其后添加一个空格**  
+  **在第 1 个至第 n-1 个操作步骤的末尾可选添加“；”符号，在第 n 个操作步骤的末尾可选添加“。”符号**
 
-示例：
-> (1) 操作步骤（；）  
-> (2) 操作步骤（；）  
-> (3) 操作步骤（；）  
-> (4) 操作步骤（。）
+  示例：
+  > (1) 操作步骤（；）  
+  > (2) 操作步骤（；）  
+  > (3) 操作步骤（；）  
+  > (4) 操作步骤（。）
 
-**对于注释或引用，建议使用“[*]”（半角）的形式标注，并在其后添加一个空格**  
+  **对于注释或引用，建议使用“[*]”（半角）的形式标注，并在其后添加一个空格**  
 
-示例：
-> [1] 注释  
-> [2] 注释  
-> [3] 注释  
-> [4] 注释
+  示例：
+  > [1] 注释  
+  > [2] 注释  
+  > [3] 注释  
+  > [4] 注释
 
-> [1] 引用  
-> [2] 引用  
-> [3] 引用  
-> [4] 引用
+  > [1] 引用  
+  > [2] 引用  
+  > [3] 引用  
+  > [4] 引用
 
-### **空格**
+- 空格
 
-为避免争端，空格建议使用空格键（Spacebar键）进行输出，而不使用制表键（Tabulator键）。
+  为避免争端，空格建议使用空格键（Spacebar键）进行输出，而不使用制表键（Tabulator键）。
 
 > 本「文案排版指南」参考内容如下：  
 > [1] [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)  
@@ -421,6 +421,145 @@ TF Community Localization（微信群）
     ![taskFinish](assets/taskFinish.png)
 
 ### 审校
+
+1. 申请成为 TF doc reviewer
+    
+    在执行审校前请务必完成本教程的加入项目的操作！
+    
+    1. 在 [TF Community Localization Membership](https://drive.google.com/corp/drive/folders/1qx3O5eoHss910DLZEHRqc8i9rROQA51W?usp=sharing_eil&ts=5cd01240) Excel 文档中将自己的角色设置为审校：
+        
+        ![infoDoc_reviewer](assets/infoDoc_reviewer.png)
+
+    2.  在 [TensorFlow 官方 docs](https://github.com/tensorflow/docs) 发起 PR 成为Reviewer：
+        
+        1. 进入该项目的 site/zh-CN 目录：
+
+            ![reviewer_site](assets/reviewer_site.png)
+            ![reviewer_zhCn](assets/reviewer_zhCn.png)
+
+        2. 修改 zh-cn 文件夹中的 REVIEWERS 文件：
+
+            ![reviewer_add](assets/reviewer_add.png)
+            ![reviewer_edit](assets/reviewer_edit.png)
+            ![reviewer_github](assets/reviewer_github.png)
+            ![reviewer_submit](assets/reviewer_submit.png)
+      
+        3. 创建 申请 成为Reviewer 的 PR
+
+            ![reviewer_pr](assets/reviewer_pr.png)
+
+        4. 创建PR后 在该PR 下留言 cc @duanw0916 等待上游 Stuff 通过该 PR
+
+            ![reviewer_wait](assets/reviewer_wait.png)
+        
+        5. 等待该 PR 被 Merge，当看见 PR 被 Merge 后，您就成为了 TensorFlow 中文 Reviewer了！
+
+            ![reviewer_merge](assets/reviewer_merge.png)
+ 
+2. 进行审校的准备工作
+	  
+    Review 的工作会比较自由，当你看见有 PR 等待 review 时，你就可以进行 review 的工作。在[官方项目](https://github.com/tensorflow/docs)中点击 PR按钮,即可看见 doc 中的 PR 列表。
+    ![pullRequestList](assets/pullRequestList.png)
+	 
+- 方式一：自由 Review（当有大部分 PR 需要被 review 时）：
+  
+  过滤 PRs
+  ![filterPR_1](assets/filterPR_1.png)
+  ![filterPR_2](assets/filterPR_2.png)
+
+	列举出来的大部分是没有被 Review 的，找到这些 PR 在 [Project](https://github.com/duanw0916/docs/projects/1) 中的位置，将reviewer 加上你自己的 Github 名字：
+ 
+  ![add_reviewer_1](assets/add_reviewer_1.png)
+	
+  点击编辑：
+  ![add_reviewer_2](assets/add_reviewer_2.png)
+  ![add_reviewer_3](assets/add_reviewer_3.png)
+ 
+ 
+接下来就可以进行 review 了。
+
+- 方式二：指定Review（当 PR 数量不多时）：
+
+  在 [project](https://github.com/duanw0916/docs/projects/1) 的 Review 中找到 reviewer 为空的 card 将你的 Github 加入：
+ 
+  ![add_reviewer_1](assets/add_reviewer_1.png)
+	
+  点击编辑：
+  ![add_reviewer_2](assets/add_reviewer_2.png)
+  ![add_reviewer_3](assets/add_reviewer_3.png)
+
+  那么接下来你就可以对该 Card 对应的 PR 进行 review 了。
+
+3. 进行审校
+    
+    当你完成了上一步骤发现了一个 PR 可以被 review 时，你就可以对该 PR 进行审校了。
+    1. 首先进入该 PR，点击 file changed：
+
+        ![fileChange](assets/fileChange.png)
+
+    2. 查看文章原文：
+
+        ![viewArticle](assets/viewArticle.png)
+
+        接下来你就可以通过该页面进行审核该文章的内容了，在审校过程中请遵循[文本](https://docs.google.com/document/d/1v7kwEhvtbbI4S4gulxLJDDN78gv0ZlDJ0cN92BUPrm0/)进行审校，特别是需要注意译者的文章是否满足 [翻译标准](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)，具体分格式标准、术语比对，通过 review 多篇文章，出现的高频问题具体如下：
+      
+        - 中英文之间需要使用空格分隔
+        - 使用全角中文标点
+        - 数字使用半角字符
+        - 中文与数字之间需要增加空格
+        - 专有名词使用正确的大小写
+        - 如果使用了 md 格式，可以直接贴上 md 格式的文章。
+        - 请不要翻译代码
+        - 保留原文的超链接，若超链接的文本可以翻译，也需要翻译成中文
+        - 专有名词请遵循[机器学习术语表](https://developers.google.com/machine-learning/glossary/) 翻译
+        - 翻译出来的句子和原文产生了本意偏差
+      
+
+        下面将为您演示 2 种常用的 review 的小技巧。
+        
+        - 批注 
+          
+          在行首点击行首点击加号，为改行增加批注
+          
+          ![addNote_1](assets/addNote_1.png)
+
+          接着下方会出现文本框，在里面写入你的留言即可，例如：
+          
+          ![addNote_2](assets/addNote_2.png)
+
+        - Suggestions
+          
+          在行首点击行首点击加号，接着下方会出现文本框，点击文本加减图标：
+        
+          ![addSuggestion_1](assets/addSuggestion_1.png)
+
+          将 suggestion 内部的句子修改为正确的句子：
+
+          原文：
+          
+          ![addSuggestion_2](assets/addSuggestion_2.png)
+
+          修改(为 pandas 增加空格):
+          
+          ![addSuggestion_3](assets/addSuggestion_3.png)
+        
+          呈现效果：
+      
+          ![addSuggestion_4](assets/addSuggestion_4.png)
+    
+    3. 完成 review 
+    
+      当你将该 PR 审核完毕后，点击整个页面右上角的 finish review 按钮：
+
+      ![finishReview_1](assets/finishReview_1.png)
+    
+      点击后，页面将出现如下对话框：
+    
+      ![finishReview_2](assets/finishReview_2.png)
+
+      如果你在 review 过程中发现了勘误，你需要勾选 Request changes，并点击submit review 按钮完成修改，如果你还有些内容需要和译者交代，你可以在文本框中进一步说明再点击 submit review 按钮。
+      如果你在  review 过程中没有发现勘误或译者已经将文章修改完毕，你需要勾选 Approve，并在文本框中输入 LGTM （意思为：Look Good To Merge/Look Good To Me）表示通过审校，最后点击 submit review 按钮完成审校工作。
+
 
 ### 协调
 
