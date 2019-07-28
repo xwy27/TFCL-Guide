@@ -28,7 +28,9 @@ TF Community Localization（微信群）
 ### 前期准备
 
 (1) 保证网络通畅（需要科学上网）
+
 (2) 注册（或拥有）一个 Google 账号和一个 GitHub 账号
+
 (3) 加入 [TensorFlow 官方文档中文化邮件组](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn) <sup>2</sup>
 
    ![CTFDC](assets/CTFDC.png)
@@ -62,10 +64,15 @@ TF Community Localization（微信群）
 ### 文档阅读
 
 [1] [TensorFlow 官方文档汉化协助教程](https://drive.google.com/open?id=1En_UACoKLLnktj9pD3O7vYtD1iOmBKYBbNaJsM0ra8o)
+
 [2] [格式标准、术语比对、审校重点](https://drive.google.com/open?id=1v7kwEhvtbbI4S4gulxLJDDN78gv0ZlDJ0cN92BUPrm0)
+
 [3] [Google Developer Documentation Style Guide](https://developers.google.com/style/highlights)
+
 [4] [TF 官方文档样式指导](https://www.tensorflow.org/community/contribute/docs_style)
+
 [5] [中文文案排班指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+
 [6] [TF 机器学习术语表](https://developers.google.com/machine-learning/glossary/)
 
 ## 工具介绍
