@@ -8,7 +8,7 @@
 
 - **项目名称**：TensorFlow 官方英文文档社区汉化
 - **发起组织**：Google Brain 技术文档撰稿团队
-- **成立时间**：2019 年 03 月
+- **成立时间**：2019 年 03 月前
 - **成立初衷**：
     为加速 TensorFlow 于中国地区落地速度，同时促使更多非英语母语开发者可无障碍阅读官方文档而设立
 - **成立目的**：
@@ -39,7 +39,7 @@ TF Community Localization（微信群）
 
    ![TFDC](assets/TFDC.png)
 
-(4) 在 [TF Community Localization Membership 中的 Excel 文档中](https://docs.google.com/spreadsheets/d/1_tqQrrfPJAnX1-obuIZYPX_fZPmd3_EytgaRF3qz_qs/edit?usp=drive_web&ouid=102279685002386439932)填写相关信息，正确填写完毕，等候 duanw0916 发送邀请确认（将会发送邀请通知至你所填写的 GitHub 注册所用的邮箱中）<sup>3</sup> <sup>4</sup>
+(4) 在 [TF Community Localization Membership 中的 Excel 文档中](https://docs.google.com/spreadsheets/d/1_tqQrrfPJAnX1-obuIZYPX_fZPmd3_EytgaRF3qz_qs/edit?usp=drive_web&ouid=102279685002386439932) 填写相关信息，正确填写完毕，等候 duanw0916 发送邀请确认（将会发送邀请通知至你所填写的 GitHub 注册所用的邮箱中）<sup>3</sup> <sup>4</sup>
 
   ![infoDoc](assets/infoDoc.png "infoDoc")
 
@@ -81,7 +81,7 @@ TF Community Localization（微信群）
 
 - Email
 - WeChat
-- Google Group
+- Google Groups
 - Google Hangouts
 
 ### 协作工具
@@ -113,7 +113,7 @@ TF Community Localization（微信群）
 
   **关于「首行缩进」**
 
-  不建议使用首行缩进
+  不建议使用首行缩进（具有排版要求除外）
 
   推荐：
   > 英文文档汉化过程中不建议使用首行缩进。
@@ -144,7 +144,7 @@ TF Community Localization（微信群）
   > 中国男足怎么可能战胜德国队？？！！  
   > 中国男足怎么可能战胜德国队？？！！？？！！  
 
-  全角标点与其他字符之间不添加空格
+  **全角标点与其他字符之间不添加空格**
 
   推荐：
   > 刚刚买了一部 iPhone，好开心！
@@ -153,7 +153,7 @@ TF Community Localization（微信群）
   > 刚刚买了一部 iPhone ，好开心！
   > 刚刚买了一部iPhone，好开心！
 
-  行首行末禁则
+  **行首行末规范**
 
   推荐：
   > 排版时需要注意的是，  
@@ -168,7 +168,7 @@ TF Community Localization（微信群）
   > 开始括号、开始双书名号等不可出现于行末，这符合了「  
   > 中文文案排版规范」。
 
-  省略号（删节号）占用 4 个字节
+  **省略号（删节号）占用 4 个字节**
 
   推荐：
   > 中国设计还有太长的路要走......
@@ -177,7 +177,7 @@ TF Community Localization（微信群）
   > 中国设计还有太长的路要走...  
   > 中国设计还有太长的路要走..
 
-  破折号占用 2 个字节
+  **破折号占用 2 个字节**
 
   推荐：
   > 这是四大名著之一——《西游记》
@@ -242,7 +242,7 @@ TF Community Localization（微信群）
 
   **标题可全字母大写**
 
-  推荐：
+  示例：
   > JUST DO IT!  
 
   **遵循专业名词的大小写，且不可使用非官方缩写**
